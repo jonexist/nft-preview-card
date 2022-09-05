@@ -31,7 +31,7 @@ body {
   padding: 1.5rem;
   background: var(--cardbg);
   border-radius: 1rem;
-  box-shadow: 0 20px 20px 20px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 0.9375rem 1.875rem -0.6875rem rgba(0, 0, 0, 50%);
 }
 .main-nft {
   position: relative;
@@ -65,6 +65,7 @@ body {
   cursor: pointer;
 }
 .wrapper h3 {
+  font-size: 1.4rem;
   font-weight: 600;
   margin-bottom: 1rem;
 }
