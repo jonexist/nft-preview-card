@@ -64,7 +64,7 @@ body {
   transition: 0.5s ease 0s;
   cursor: pointer;
 }
-.wrapper h3 {
+.wrapper h1 {
   font-size: 1.4rem;
   font-weight: 600;
   margin-bottom: 1rem;
@@ -73,7 +73,7 @@ body {
   line-height: 1.4;
   margin-bottom: 1.5rem;
   color: var(--softblue);
-  font-weight: 300;
+  font-weight: 400;
 }
 hr {
   margin-bottom: 1rem;
