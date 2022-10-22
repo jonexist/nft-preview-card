@@ -75,12 +75,10 @@ body {
   color: var(--softblue);
   font-weight: 300;
 }
-/*
 hr {
   margin-bottom: 1rem;
   color: var(--line);
 }
-*/
 .wrapper ul {
   display: flex;
   justify-content: space-between;
@@ -88,7 +86,6 @@ hr {
   list-style: none;
   margin-bottom: 1.5rem;
   font-weight: 600;
-  position: relative;
 }
 .wrapper li {
   display: flex;
